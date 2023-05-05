@@ -1,0 +1,9 @@
+descrição completa do projeto:
+  o projeto foi feito utilizando um Arduino nano, um motor de passos, uma tela tm1637, um sensor de fluxo de agua, um sensor bluetooth hc-06,
+  um Teclado Membrana Com 4 Teclas alem de cabos jumpers.
+  
+  o objetivo desse projeto seria a automatização de uma valvula atravez de um motor de passos e uma correia,
+  o sensor bluetooth foi implementado para facilitiar o acesso ao motor e caso a pessoa não tivesse acesso aos botões,
+  ela poderia utilizar os botões, a tela apresenta o fluxo de agua passando pela valvula em L/min.
+  
+  toda a estrutura foi feita em lego devida a sua capacidade de alteração e adaptação, alem de ter um grande durabilidade e resistencia.
